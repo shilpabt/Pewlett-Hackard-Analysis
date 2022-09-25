@@ -3,6 +3,13 @@
 
 Pewlett Hackard is a large employee based firm with large number of senior employees who will be retiring soon and that will result in a significant number of job openings in the organization. The purpose of the analysis was to determine how many employees will be retiring and those who qualify to participate in a mentorship program to train the future generation of workers who would run Pewlett Hackard's operations and day-to-day activities. 
 
+A complete entity relationship diagram to reference for the analysis is as below,
+
+![Retirement Titles](Resources/EmployeeDB.png?raw=true)
+
+
+
+
 
 ## Results
 ## The Number of Retiring Employees by Title
